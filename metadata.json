@@ -1,0 +1,6 @@
+{
+  "name": "Dotline",
+  "description": "Nothing OS visual recreation home launcher with dot-matrix design system, widgets, wallpaper studio, sound studio, and icon engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

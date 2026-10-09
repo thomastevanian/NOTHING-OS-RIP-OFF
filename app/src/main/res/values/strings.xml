@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dotline</string>
+    <string name="widget_clock_name">Dot-Matrix Clock</string>
+    <string name="widget_clock_desc">Nothing OS style dot-matrix digital clock</string>
+    <string name="widget_battery_name">Dotline Battery</string>
+    <string name="widget_battery_desc">Minimalist battery level widget</string>
+    <string name="widget_weather_name">Dotline Weather</string>
+    <string name="widget_weather_desc">Live temperature and condition in dot-matrix</string>
+    <string name="widget_date_name">Dotline Date</string>
+    <string name="widget_date_desc">Dot-matrix calendar date widget</string>
+    <string name="accessibility_desc">Allows Dotline to lock the screen when double tapping empty home space.</string>
+    <string name="notification_listener_desc">Allows Dotline to display minimalist notification dots on app icons.</string>
+</resources>

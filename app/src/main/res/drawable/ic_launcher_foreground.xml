@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center circular card background -->
+    <path
+        android:fillColor="#141414"
+        android:strokeColor="#2A2A2A"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-27,0a27,27 0,1 1,54 0a27,27 0,1 1,-54 0" />
+
+    <!-- Dotted circular motif in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M68.1,39.9m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M74,54m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M68.1,68.1m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M54,74m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M39.9,68.1m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M34,54m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M39.9,39.9m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <!-- Inner Dotline D pattern -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M46,46m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M46,54m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M46,62m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M54,46m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M54,62m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0
+                          M62,54m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <!-- Signature Nothing red accent dot -->
+    <path
+        android:fillColor="#D71921"
+        android:pathData="M54,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>
